@@ -1,3 +1,16 @@
+# Requirement
+
+Test on windows 10
+
+```
+pip install fpdf
+pip install wand
+http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
+https://www.ghostscript.com/download/gsdnld.html
+```
+
+
+
 # PNG Convert PDF
 
 `python pdf2png_png2pdf.py png2pdf jpgpath width heigth itemtype`
